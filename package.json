@@ -1,0 +1,11 @@
+{
+  "name": "forCat",
+  "version": "1.0.0",
+  "description": "for cat relax",
+  "private": true,
+  "author": "pxl",
+  "license": "MIT",
+  "dependencies": {
+    "egg": "^2.3.0"
+  }
+}
